@@ -1,0 +1,57 @@
+#history {
+    background-color: darksalmon;
+    height: 100%;
+    width: 40%;
+    float: left;
+}
+
+#weather {
+    float: left;
+    width: 60%;
+
+}
+
+#future {
+    width: 60%;
+}
+
+#div1 {
+    background-color: cadetblue;
+    height: 50%;
+    width: 60%;
+}
+
+#div2 {
+    background-color: coral;
+    height: 50%;
+    width: 10%;
+    float: left;
+}
+
+#div3 {
+    background-color: cornflowerblue;
+    height: 50%;
+    width: 10%;
+    float: left;
+}
+
+#div4 {
+    background-color: darkcyan;
+    height: 50%;
+    width: 10%;
+    float: left;
+}
+
+#div5 {
+    background-color: darkgray;
+    height: 50%;
+    width: 10%;
+    float: left;
+}
+
+#div6 {
+    background-color: darkorange;
+    height: 50%;
+    width: 10%;
+    float: left;
+}
