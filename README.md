@@ -9,9 +9,10 @@ SO THAT I can plan a trip accordingly
 ## Built With
 * HTML
 * CSS
+* JavaScript
 
 # Publish Website
-https://rlw950.github.io/02-css-challenge/#contact-me
+https://rlw950.github.io/06-weather-dashboard/
 
 # Github Repository
 https://github.com/rlw950/06-weather-dashboard
@@ -30,3 +31,4 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Screenshot
+https://user-images.githubusercontent.com/85190538/141825143-730fb503-44ed-4bbe-89d7-f04c3e86f468.png
